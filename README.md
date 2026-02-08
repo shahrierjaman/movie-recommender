@@ -57,7 +57,7 @@ The system follows these main steps:
 ![Home Page](screenshots/home.png)
 
 ### 2️⃣ Recommendation Results (Cards View)
-![Recommendations](screenshots/card.png)
+![Recommendations](screenshots/results.png)
 
 ### 3️⃣ Individual Movie Card (Poster + Details)
 ![Movie Card](screenshots/card.png)
