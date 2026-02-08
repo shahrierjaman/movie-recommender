@@ -56,15 +56,19 @@ The system follows these main steps:
 
 ### 1️⃣ Home Screen (Movie Selector)
 
-    ![Home Page](screenshots/home.png)
+    <img width="1684" height="908" alt="home" src="https://github.com/user-attachments/assets/3f6944bf-ea61-453c-89b4-b281a31834f5" />
+
+    
 
 ### 2️⃣ Recommendation Results (Cards View)
 
-    ![Recommendations](screenshots/results.png)
+    <img width="1694" height="915" alt="results" src="https://github.com/user-attachments/assets/cec55a91-8c87-4618-889e-6953aa548b58" />
+
 
 ### 3️⃣ Individual Movie Card (Poster + Details)
 
-    ![Movie Card](screenshots/card.png)
+    <img width="233" height="544" alt="card" src="https://github.com/user-attachments/assets/6589b486-a2ac-4ae5-a12f-56c2ad89d1a9" />
+
 
 **How to add screenshots in your repo:** 1. Create a folder named
 `screenshots/` 2. Add your images: - `home.png` - `results.png` -
